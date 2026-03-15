@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
           
 </p>
-![Snake animation]
-(https://github.com/leakingfreezer/leakingfreezer/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Leakingfreezer/Leakingfreezer/blob/output/github-snake.svg)
