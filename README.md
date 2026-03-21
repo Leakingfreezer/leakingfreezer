@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 </p>
+<h3>Currently moving over my coding projects and revamping this github porfolio</h3>
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Leakingfreezer/Leakingfreezer/output/github-snake.svg" />
